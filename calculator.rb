@@ -24,7 +24,7 @@ end
 
 
 def operations(type, num1, num2)
-    type = type.upcase # Fallback incase a lowercase is sent through
+    type = type.upcase # Fallback incase a lowercase is sent through (incase, get it?)
     num1 = num1.to_f
     num2 = num2.to_f
 
